@@ -1,16 +1,83 @@
-## Hi there 👋
+# 寸进的胖丁
 
-<!--
-**wensiyuanxiang/wensiyuanxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**软件架构师 · AI 出海与产品实践**
 
-Here are some ideas to get you started:
+10 年+ 软件与系统架构经验，经历交换机、5G、云原生与云计算；现阶段聚焦 **AI 出海** 相关业务，前期持续学习并实践各类 AI 工具与落地场景。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 兴趣与生活
+
+我最近在心态上很认同 **「寸进」**：不追求一蹴而就，而是希望在 **减重** 与 **AI** 这两条日常主线上，每天都能比昨天进步一点点——把长期目标拆成可持续的小步迭代。
+
+平时投入较多、也乐于交流的方向包括：
+
+- **架构设计**：系统边界、演进路径与设计权衡
+- **读书**：持续阅读，整理方法与实践心得
+- **篮球**：保持运动习惯，也享受团队配合的节奏
+- **减重**：把健康管理当成长期习惯，而不是短期冲刺
+
+---
+
+## 现在在做什么
+
+### 1. AI 与出海产品
+
+- 将 AI 能力融入产品与增长，探索可规模化、可复用的出海路径
+- 持续迭代主力产品与配套站点
+
+### 2. 主力产品与站点
+
+| 产品 / 站点 | 说明 |
+| --- | --- |
+| **优时 App** | 主力产品之一（移动端） |
+| **OpSeeky** | 主力产品；在线站点：[www.opseeky.com](https://www.opseeky.com) |
+| **GlowPic** | AI 证件照与照片增强等能力：[www.glow-pic.com](https://www.glow-pic.com) |
+
+---
+
+## 内容与交流（统一昵称：寸进的胖丁）
+
+在以下平台搜索或关注 **「寸进的胖丁」** 即可（部分平台主页链接可后续补全）：
+
+- [知乎](https://www.zhihu.com/)（主页链接待补充）
+- 微信公众号：**寸进的胖丁**
+- [腾讯开发者社区](https://cloud.tencent.com/developer/)（主页链接待补充）
+- [CSDN](https://blog.csdn.net/xinquanv1)
+
+---
+
+## 联系我
+
+### 微信公众号
+
+扫码关注 **寸进的胖丁**：
+
+![寸进的胖丁-公众号码2](assets/寸进的胖丁-公众号码2.jpg)
+
+
+
+### 个人微信
+
+添加个人微信请扫码：
+
+![寸进的胖丁-微信码](assets/寸进的胖丁-微信码.jpg)
+
+
+
+---
+
+## 我擅长的方向
+
+`软件架构` `云原生` `云计算` `5G` `网络设备` `AI 应用` `出海产品` `全栈交付`
+
+---
+
+## Find me
+
+- 网站：[www.opseeky.com](https://www.opseeky.com)
+- 产品站：[GlowPic](https://www.glow-pic.com/)
+- CSDN：[寸进的胖丁](https://blog.csdn.net/xinquanv1)
+- GitHub：[@wensiyuanxiang](https://github.com/wensiyuanxiang)
+
+若你也在做 **AI 出海、架构落地或开发者工具**，欢迎通过公众号或个人微信交流。
