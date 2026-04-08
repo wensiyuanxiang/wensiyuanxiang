@@ -40,9 +40,7 @@
 
 在以下平台搜索或关注 **「寸进的胖丁」** 即可（部分平台主页链接可后续补全）：
 
-- [知乎](https://www.zhihu.com/)（主页链接待补充）
 - 微信公众号：**寸进的胖丁**
-- [腾讯开发者社区](https://cloud.tencent.com/developer/)（主页链接待补充）
 - [CSDN](https://blog.csdn.net/xinquanv1)
 
 ---
